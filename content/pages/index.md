@@ -129,7 +129,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: What is the “Real Presence” of the Eucharist?
       color: text-dark
     subtitle: ''
     text: >
