@@ -19,7 +19,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: The meaning and significance of the Eucharist
       color: text-primary
       type: Badge
     elementId: ''
