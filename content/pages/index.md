@@ -49,7 +49,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: >-
+        How do the scripture passages “The Last Supper” (Luke 22: 7-30) and On
+        the Road to Emmaus (Luke 24:13-35) relate to the Eucharist?
       color: text-dark
     subtitle: ''
     text: >
