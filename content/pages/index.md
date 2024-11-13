@@ -55,8 +55,26 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      In "The Last Supper" (Luke 22:7-30), Jesus asked his disciples to keep
+      breaking bread and sharing wine to remember his sacrifice and stay
+      connected to him. This moment is important because it set up the practice
+      of the Eucharist, which is a core part of Christian worship. By doing
+      this, Jesus strengthened the bond between himself and his disciples and
+      emphasized their role in spreading his message. The Last Supper prepared
+      them for the events of his passion, death, and resurrection, deepening
+      their commitment to Jesus and each other.
+
+
+      In the "On the Road to Emmaus" passage (Luke 24:13-35), two disciples met
+      the resurrected Jesus without recognizing him. They only realized who he
+      was when he broke bread, blessed it, and shared it with them. This story
+      highlights how important it is to see Jesus’ presence in the Eucharist. It
+      shows the power of the Eucharist in transforming lives and underscores
+      that Jesus is still with his followers, nourishing them spiritually
+      through the breaking of bread. Together, these passages show that the
+      Eucharist helps believers remember Jesus and experience his presence, with
+      the Last Supper establishing the practice and the Emmaus story
+      demonstrating its ongoing importance.
     actions: []
     badge:
       type: Badge
