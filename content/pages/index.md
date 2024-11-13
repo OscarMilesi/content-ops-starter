@@ -133,8 +133,23 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Catholics believe in the “Real Presence” of the Eucharist, meaning they
+      think the bread and wine truly become the body and blood of Jesus Christ
+      during Mass. This change happens through a process called
+      transubstantiation. Even though the bread and wine still look the same,
+      Catholics believe they are receiving Jesus himself when they take the
+      Eucharist. This makes the Eucharist a very special and personal way to
+      connect with Jesus.
+
+
+      For a Year 8 student, understanding this belief can be important in
+      several ways. It teaches them about Jesus’ sacrifice and helps them feel
+      closer to him. It also shows the importance of being part of the Church
+      community, as taking the Eucharist is something everyone does together.
+      Finally, it provides moral guidance, helping students learn about respect,
+      preparation, and the importance of faith in their daily lives. This
+      understanding can help them grow spiritually and become a stronger part of
+      their Church community.
     actions: []
     media:
       type: ImageBlock
