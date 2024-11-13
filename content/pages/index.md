@@ -161,7 +161,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: My Personal Experience and Reflections on the Eucharist
       color: text-dark
     subtitle: ''
     text: >
