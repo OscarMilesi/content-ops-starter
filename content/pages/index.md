@@ -87,7 +87,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: What does the bread & wine represent?
       color: text-dark
     subtitle: ''
     text: >
