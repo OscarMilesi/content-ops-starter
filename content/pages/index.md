@@ -46,6 +46,17 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -84,6 +95,17 @@ sections:
     styles:
       self:
         alignItems: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -126,6 +148,17 @@ sections:
     styles:
       self:
         alignItems: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -158,6 +191,17 @@ sections:
     styles:
       self:
         alignItems: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -193,16 +237,17 @@ sections:
     styles:
       self:
         alignItems: center
-  - title: Divider
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
