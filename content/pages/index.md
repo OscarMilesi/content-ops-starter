@@ -18,10 +18,6 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: The meaning and significance of the Eucharist
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
