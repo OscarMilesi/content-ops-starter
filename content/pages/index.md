@@ -188,7 +188,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      altText: Fun feature preview
+      altText: ''
       url: /images/OIP (2).jpg
     colors: bg-light-fg-dark
     styles:
