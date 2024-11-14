@@ -35,6 +35,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/OIP.jpg
     elementId: ''
     colors: bg-light-fg-dark
     styles:
