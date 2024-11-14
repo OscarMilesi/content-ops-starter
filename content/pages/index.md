@@ -24,7 +24,7 @@ sections:
       The Eucharist is crucial for Catholics as it signifies the real presence
       of Jesus, offering spiritual nourishment and strengthening the bond
       between the believers and Christ. It serves as a memorial of Jesus’
-      passion, death, and resurrection—events that are the cornerstone of
+      passion, death, and resurrection events that are the cornerstone of
       Christian faith. Moreover, the communal aspect of the Eucharist reinforces
       the unity of the Church, bringing believers together in a shared act of
       worship. Catholics continue to celebrate the Eucharist today in obedience
