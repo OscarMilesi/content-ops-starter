@@ -32,9 +32,10 @@ sections:
       spiritual strength, essential for personal and communal spiritual growth.
     actions: []
     media:
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
+      url: /images/OIP.jpg
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -143,7 +144,8 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      altText: Fun feature preview
+      altText: ''
+      url: /images/OIP (1).jpg
     colors: bg-light-fg-dark
     styles:
       self:
@@ -186,7 +188,8 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      altText: Fun feature preview
+      altText: ''
+      url: /images/OIP (2).jpg
     colors: bg-light-fg-dark
     styles:
       self:
@@ -232,7 +235,8 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      altText: Fun feature preview
+      altText: ''
+      url: /images/OIP (3).jpg
     colors: bg-light-fg-dark
     styles:
       self:
