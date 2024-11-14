@@ -236,6 +236,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
+      url: /images/OIP (3).jpg
     colors: bg-light-fg-dark
     styles:
       self:
