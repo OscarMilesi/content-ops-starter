@@ -32,7 +32,7 @@ sections:
       spiritual strength, essential for personal and communal spiritual growth.
     actions: []
     media:
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
       url: /images/OIP.jpg
